@@ -188,9 +188,9 @@ a
 }
 .Div-middle_left
 {
-    width: 400px;
+    width: 420px;
     height: 90%;
-    float: left;
+    float: right;
 }
 .Steam-valet
 {
@@ -279,7 +279,7 @@ a
     border-color: white;
     background-color: #0e1318;
     border-radius: 20px;
-    float: left;
+    float: right;
 }
 .two_vs_two
 {
@@ -297,7 +297,7 @@ a
     border-color: white;
     background-color: #0e1318;
     border-radius: 20px;
-    float: right;
+    float: left;
 }
 .four_vs_four
 {
@@ -306,7 +306,7 @@ a
     border-color: white;
     background-color: #0e1318;
     border-radius: 20px;
-    float: left;
+    float: right;
 }
 .Div-middle_left_line2
 {
