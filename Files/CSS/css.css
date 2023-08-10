@@ -375,6 +375,17 @@ input[type=email]
     padding: 3%;   
     float: right;
 }
+.select-league-mode_Dota2
+{
+    background-color: #11171c;
+    border-width: 5px;
+    border-radius: 25px;
+    border-color: #0e1318;
+    width: 100%;
+    color: white !important;
+    padding: 3%;   
+    float: right;
+}
 button
 {
     background-color: #11171c;
