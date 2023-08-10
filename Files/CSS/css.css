@@ -62,7 +62,7 @@ a
     -webkit-transition: 0.5s;
     transition: 0.5s;
     text-decoration: none;
-    color: white !important;
+    color: white;
 }
 .Div-head_menu
 {
@@ -455,4 +455,19 @@ button
     width: 25%;
     height: 100%;
     float: left;
+}
+.Div-middle-Of_page
+{
+    width: 80%;
+    height: 100%;
+}
+.Div-middle-Of_page2
+{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+.A-for-thanks
+{
+    color: rgb(0, 0, 350);
 }
