@@ -443,6 +443,13 @@ button
     float: right;
     text-align: center;
 }
+.Div-middle_Leauge_des_part-center2
+{
+    width: 25%;
+    height: 100%;
+    float: left;
+    text-align: center;
+}
 .Div-middle_Leauge_des_part-center
 {
     width: 25%;
@@ -455,6 +462,7 @@ button
     width: 25%;
     height: 100%;
     float: left;
+    text-align: center;
 }
 .Div-middle-Of_page
 {
