@@ -136,18 +136,23 @@ a
 }
 .Dota2
 {
-    width: 405px;
+    width: 402px;
     height: 95%;
     border-color: white;
     background-color: #0e1318;
     border-radius: 20px;
     float: right;
+    transition: all 0.5s ease-in-out;
+}
+.Dota2:hover
+{
+    background-color: black;
 }
 .Dota2-img
 {
     width: 400px;
     height: 250px;
-    border: 2px solid #555;
+    border: 0px solid #555;
 }
 .Center_text
 {
@@ -155,12 +160,17 @@ a
 }
 .Counter-strike
 {
-    width: 405px;
+    width: 402; 
     height: 95%;
     border-color: white;
     background-color: #0e1318;
     border-radius: 20px;
-    float: left;
+    float: right;
+    transition: all 0.5s ease-in-out;
+}
+.Counter-strike:hover
+{
+    background-color: black;
 }
 .Div-middle_top
 {
@@ -184,7 +194,7 @@ a
 {
     width: 400px;
     height: 250px;
-    border: 2px solid #555;
+    border: 0px solid #555;
 }
 .Div-middle_left
 {
@@ -194,18 +204,23 @@ a
 }
 .Steam-valet
 {
-    width: 405px;
+    width: 402px;
     height: 95%;
     border-color: white;
     background-color: #0e1318;
     border-radius: 20px;
-    float: left;
+    float: right;
+    transition: all 0.5s ease-in-out;
+}
+.Steam-valet:hover
+{
+    background-color: black;
 }
 .Steam-img
 {
     width: 400px;
     height: 250px;
-    border: 2px solid #555;
+    border: 0px solid #555;
 }
 .Div-middle_right_line2
 {
@@ -215,24 +230,29 @@ a
 }
 .Fortnite
 {
-    width: 405px;
+    width: 402px;
     height: 95%;
     border-color: white;
     background-color: #0e1318;
     border-radius: 20px;
     float: right;
+    transition: all 0.5s ease-in-out;
+}
+.Fortnite:hover
+{
+    background-color: black;
 }
 .Fortnite-img
 {
     width: 400px;
     height: 250px;
-    border: 2px solid #555;
+    border: 0px solid #555;
 }
 .Div-middle_leagues
 {
     width: 855px;
     height: 82%;
-    float: left;
+    float: right;
 }
 .leagues-Dota2
 {
@@ -274,7 +294,7 @@ a
 }
 .one_vs_one
 {
-    width: 405px;
+    width: 402px;
     height: 95%;
     border-color: white;
     background-color: #0e1318;
@@ -283,25 +303,25 @@ a
 }
 .two_vs_two
 {
-    width: 405px;
+    width: 402px;
     height: 95%;
     border-color: white;
     background-color: #0e1318;
     border-radius: 20px;
-    float: left;
+    float: right;
 }
 .three_vs_three
 {
-    width: 405px;
+    width: 402px;
     height: 95%;
     border-color: white;
     background-color: #0e1318;
     border-radius: 20px;
-    float: left;
+    float: right;
 }
 .four_vs_four
 {
-    width: 405px;
+    width: 402px;
     height: 95%;
     border-color: white;
     background-color: #0e1318;
@@ -312,16 +332,16 @@ a
 {
     width: 420px;
     height: 90%;
-    float: left;
+    float: right;
 }
 .five_vs_five
 {
-    width: 405px;
+    width: 402px;
     height: 95%;
     border-color: white;
     background-color: #0e1318;
     border-radius: 20px;
-    float: left;
+    float: right;
 }
 .Div-middle_center_for_form
 {
@@ -338,7 +358,7 @@ a
     border-color: white;
     background-color: #0e1318;
     border-radius: 20px;
-    float: left;
+    float: right;
     width: 90%;
     height: 100%;
 }
