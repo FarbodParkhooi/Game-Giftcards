@@ -3,29 +3,39 @@
 <head>
     <meta charset="UTF-8">
     <title>404 Error Page</title>
+    <link type="text/css" href="Files/CSS/css.css" rel="stylesheet" />
+    <meta name="author" content="Farbod Parkhooi" />
+    <meta name="keywords" content="Gift card, Gamgi, Game" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Gamgi is a iranian website for sale game gift cards!
+    We are try for help you." />
     <link href="https://fonts.googleapis.com/css?family=Montserrat:200,400,700" rel="stylesheet">
     <style>
-        * {
+        * 
+        {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
         }
 
-        body {
-            background-color: pink;
+        body 
+        {
+            background-color: #0e1318;
             font-family: 'Montserrat', sans-serif;
             color: blue;
-            display: flex;
+            display: -webkit-flex;
             justify-content: center;
             align-items: center;
             min-height: 100vh;
         }
 
-        .error-container {
+        .error-container 
+        {
             text-align: center;
         }
 
-        h1 {
+        h1
+        {
             font-size: 10rem;
             font-weight: 700;
             margin-bottom: 2rem;
@@ -33,7 +43,8 @@
         }
 
         h1::before,
-        h1::after {
+        h1::after 
+        {
             content: "";
             position: absolute;
             width: 100%;
@@ -43,20 +54,24 @@
             transform: translateY(-50%);
         }
 
-        h1::before {
+        h1::before 
+        {
             left: -100%;
         }
 
-        h1::after {
+        h1::after 
+        {
             right: -100%;
         }
 
-        p {
+        p 
+        {
             font-size: 1.5rem;
             margin-bottom: 2rem;
         }
 
-        .btn {
+        .btn 
+        {
             padding: 1.5rem 3rem;
             background-color: transparent;
             border: 2px solid #fff;
@@ -64,12 +79,13 @@
             text-transform: uppercase;
             letter-spacing: 2px;
             font-weight: 400;
-            transition: all 0.3s ease-in-out;
+            transition: all 0.5s ease-in-out;
             display: inline-block;
         }
 
-        .btn:hover {
-            background-color: red;
+        .btn:hover 
+        {
+            background-color: #11171c;
             color: blue;
             cursor: pointer;
         }
@@ -79,7 +95,7 @@
     <div class="error-container">
         <h1>404</h1>
         <p>Oops! The page you are looking for does not exist.</p>
-        <a href="#" class="btn">Go Back</a>
+        <a href="index.html" class="btn">Go Back</a>
     </div>
     <script>
         const btn = document.querySelector('.btn');
