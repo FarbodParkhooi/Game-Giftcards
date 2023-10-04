@@ -9,6 +9,6 @@
 
      - Github pages
 # Versions
-     - V0.1
+  - V0.1
 
-     ` Completed website `
+     Completed website
