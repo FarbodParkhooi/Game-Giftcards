@@ -1,11 +1,11 @@
 # Gamgi
  Gamgi is a professional website for selling game gift cards.
 # Powered by:
-     - HTML 
+   HTML 
 
-     - CSS
+   CSS
 
-     - JS
+   JS
 
      - Github pages
 # Versions
