@@ -5,3 +5,497 @@ body
     text-align: right;
     background-color: #11171c;
 }
+.Div-body
+{   
+    width: 1500px;
+    text-align: center;
+    margin: 0 auto 0;
+}
+.Div-head
+{   
+    background-color: #0e1318;
+    width: 100%;
+    float: right;
+    height: 100px;
+}
+.Div-head_Logo
+{
+    width: 10%;
+    height: 100%;
+    float: right;
+    text-align: right;
+}
+.Logo
+{
+    width: 100%;
+    height: 100%;
+}
+.Div-left
+{   
+    width: 10%;
+    height: 1000px;
+    float: left;
+}
+.Div-right
+{   
+    width: 5%;
+    height: 1000px;
+    float: right;
+}
+.Div-middle
+{   
+    width: 85%;
+    background-color: #11171c;
+    height: 400px;
+    float: right;
+}
+.Div-foot
+{   
+    width: 100%;
+    height: 250px;
+    clear: both;
+    background-color: #0e1318;
+}
+a
+{
+    background-color: none;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    text-decoration: none;
+    color: white;
+}
+.Div-head_menu
+{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+.Div-head_addresses
+{
+    width: 15%;
+    height: 100%;
+    float: right;
+    text-align: center;
+}
+.English_text
+{
+    text-align: left;
+}
+.Persian_text
+{
+    text-align: right;
+}
+.Div-head_support
+{
+    width: 12%;
+    height: 100%;
+    float: left;
+}
+.Normal-size
+{
+    font-size: 20px;
+}
+.Number
+{
+    text-align: left;
+}
+.Div-head_homepage
+{
+    width: 15%;
+    height: 100%;
+    float: right;
+    text-align: left !important;
+}
+.Menu
+{
+    text-align: center;
+}
+.Div-head_blog
+{
+    width: 15%;
+    height: 100%;
+    float: right;
+}
+.Div-head_products
+{
+    width: 10%;
+    height: 100%;
+    float: right;
+}
+.Div-head_steam-valet
+{
+    width: 15%;
+    height: 100%;
+    float: right;
+}
+.Div-head_rulles
+{
+    width: -2%;
+    height: 100%;
+    float: right;
+}
+.Dota2
+{
+    width: 402px;
+    height: 95%;
+    border-color: white;
+    background-color: #0e1318;
+    border-radius: 20px;
+    float: right;
+    transition: all 0.5s ease-in-out;
+}
+.Dota2:hover
+{
+    background-color: black;
+}
+.Dota2-img
+{
+    width: 400px;
+    height: 250px;
+    border: 0px solid #555;
+}
+.Center_text
+{
+    text-align: center;
+}
+.Counter-strike
+{
+    width: 402; 
+    height: 95%;
+    border-color: white;
+    background-color: #0e1318;
+    border-radius: 20px;
+    float: right;
+    transition: all 0.5s ease-in-out;
+}
+.Counter-strike:hover
+{
+    background-color: black;
+}
+.Div-middle_top
+{
+    width: 85%;
+    height: 125px;
+    float: right;
+}
+.Div-middle_right
+{
+    width: 420px;
+    height: 90%;
+    float: right;
+}
+.Div-middle_center
+{
+    width: 420px;
+    height: 90%;
+    float: right;
+}
+.Counter-strike-img
+{
+    width: 400px;
+    height: 250px;
+    border: 0px solid #555;
+}
+.Div-middle_left
+{
+    width: 420px;
+    height: 90%;
+    float: right;
+}
+.Steam-valet
+{
+    width: 402px;
+    height: 95%;
+    border-color: white;
+    background-color: #0e1318;
+    border-radius: 20px;
+    float: right;
+    transition: all 0.5s ease-in-out;
+}
+.Steam-valet:hover
+{
+    background-color: black;
+}
+.Steam-img
+{
+    width: 400px;
+    height: 250px;
+    border: 0px solid #555;
+}
+.Div-middle_right_line2
+{
+    width: 420px;
+    height: 90%;
+    float: right;
+}
+.Fortnite
+{
+    width: 402px;
+    height: 95%;
+    border-color: white;
+    background-color: #0e1318;
+    border-radius: 20px;
+    float: right;
+    transition: all 0.5s ease-in-out;
+}
+.Fortnite:hover
+{
+    background-color: black;
+}
+.Fortnite-img
+{
+    width: 400px;
+    height: 250px;
+    border: 0px solid #555;
+}
+.Div-middle_leagues
+{
+    width: 855px;
+    height: 82%;
+    float: right;
+}
+.leagues-Dota2
+{
+    width: 100%;
+    height: 50%;
+}
+.Dota2-img_league
+{
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+}
+.leagues-CSGO
+{
+    width: 100%;
+    height: 50%;
+}
+.CSGO-img_league
+{
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+}
+.Div-foot_cut_right
+{
+    width: 20%;
+    height: 100%;
+    float: right;
+}
+.Div-foot_cut_left
+{
+    width: 10%;
+    height: 100%;
+    float: left;
+}
+.About
+{
+    font-size: 20px;
+}
+.one_vs_one
+{
+    width: 402px;
+    height: 95%;
+    border-color: white;
+    background-color: #0e1318;
+    border-radius: 20px;
+    float: right;
+}
+.two_vs_two
+{
+    width: 402px;
+    height: 95%;
+    border-color: white;
+    background-color: #0e1318;
+    border-radius: 20px;
+    float: right;
+}
+.three_vs_three
+{
+    width: 402px;
+    height: 95%;
+    border-color: white;
+    background-color: #0e1318;
+    border-radius: 20px;
+    float: right;
+}
+.four_vs_four
+{
+    width: 402px;
+    height: 95%;
+    border-color: white;
+    background-color: #0e1318;
+    border-radius: 20px;
+    float: right;
+}
+.Div-middle_left_line2
+{
+    width: 420px;
+    height: 90%;
+    float: right;
+}
+.five_vs_five
+{
+    width: 402px;
+    height: 95%;
+    border-color: white;
+    background-color: #0e1318;
+    border-radius: 20px;
+    float: right;
+}
+.Div-middle_center_for_form
+{
+    width: 420px;
+    height: 500px;
+    float: right;
+}
+.form1
+{
+    text-align: center;
+}
+.form
+{
+    border-color: white;
+    background-color: #0e1318;
+    border-radius: 20px;
+    float: right;
+    width: 90%;
+    height: 100%;
+}
+input[type=text]
+{
+    border-radius: 25px;
+    border-color: #0e1318;
+    border-width: 5px;
+    background-color: #11171c;
+    border-style: double;
+    width: 90%;
+    padding: 2%;   
+    color: white !important;
+}
+input[type=email]
+{
+    border-radius: 25px;
+    border-color: #0e1318;
+    border-width: 5px;
+    border-style: double;
+    background-color: #11171c;
+    width: 90%;
+    padding: 2%;   
+    color: white !important;
+}
+.select-league-mode
+{
+    background-color: #11171c;
+    border-width: 5px;
+    border-radius: 25px;
+    border-color: #0e1318;
+    width: 50%;
+    color: white !important;
+    padding: 3%;   
+    float: right;
+}
+.select-league-mode_Dota2
+{
+    background-color: #11171c;
+    border-width: 5px;
+    border-radius: 25px;
+    border-color: #0e1318;
+    width: 100%;
+    color: white !important;
+    padding: 3%;   
+    float: right;
+}
+button
+{
+    background-color: #11171c;
+    border-width: 5px;
+    border-radius: 25px;
+    border-style: double;
+    width: 90%;
+    padding: 2%;   
+    border-color: #0e1318;
+    color: white !important;
+}
+.select-league-map
+{
+    background-color: #11171c;
+    border-width: 5px;
+    border-radius: 25px;
+    border-color: #0e1318;
+    width: 50%;
+    color: white !important;
+    padding: 3%;   
+    float: left;
+}
+.Div-middle_left_line2-For-form
+{
+    width: 420px;
+    height: 500px;
+    float: right;
+}
+.Leauge-cont
+{
+    width: 100%;
+    height: 500px;
+    float: right;
+    border-width: 5px;
+    border-radius: 25px;
+    border-color: #11171c;
+    background-color: #0e1318;
+}
+.League-table
+{
+    width: 100%;
+    height: 100%;
+    float: right;
+    border: 1px;
+}
+.Div-middle_Leauge_des_part
+{
+    width: 100%;
+    height: 20px;
+}
+.Div-middle_Leauge_des_part-right
+{
+    width: 25%;
+    height: 100%;
+    float: right;
+    text-align: center;
+}
+.Div-middle_Leauge_des_part-center2
+{
+    width: 25%;
+    height: 100%;
+    float: left;
+    text-align: center;
+}
+.Div-middle_Leauge_des_part-center
+{
+    width: 25%;
+    height: 100%;
+    float: left;
+    text-align: center;
+}
+.Div-middle_Leauge_des_part-left
+{
+    width: 25%;
+    height: 100%;
+    float: left;
+    text-align: center;
+}
+.Div-middle-Of_page
+{
+    width: 80%;
+    height: 100%;
+}
+.Div-middle-Of_page2
+{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+.A-for-thanks
+{
+    color: rgb(0, 0, 350);
+}
