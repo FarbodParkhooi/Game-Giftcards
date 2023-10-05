@@ -5,3 +5,40 @@ body
     text-align: right;
     background-color: #11171c;
 }
+.Card-container
+{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    height: auto;
+}
+.Card
+{
+    text-align: center;
+    margin: 0px;
+    border-radius: 25px;
+    background-color: #0e1318;
+    transition: all 0.5s ease-in-out;
+    /* min-height: 50px;
+    max-height: 250px; */
+    width: 250px;
+    border: solid rgb(255, 255, 255);
+    padding-bottom: 25px;
+}
+.Card:hover
+{
+    background-color: black;
+}
+.Card-text
+{
+    margin: 0;
+    text-align: center !important;
+}
+.Card-image
+{
+    width: 100% !important;
+    height: 200px;
+    border-radius: 20px;
+}
