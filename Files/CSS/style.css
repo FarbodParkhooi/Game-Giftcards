@@ -21,9 +21,7 @@ body
     border-radius: 25px;
     background-color: #0e1318;
     transition: all 0.5s ease-in-out;
-    /* min-height: 50px;
-    max-height: 250px; */
-    width: 250px;
+    width: 300px;
     border: solid rgb(255, 255, 255);
     padding-bottom: 25px;
 }
@@ -41,4 +39,9 @@ body
     width: 100% !important;
     height: 200px;
     border-radius: 20px;
+}
+a
+{
+    text-decoration: none;
+    color: white;
 }
