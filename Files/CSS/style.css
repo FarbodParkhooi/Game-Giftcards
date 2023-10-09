@@ -46,3 +46,20 @@ a
     text-decoration: none;
     color: white;
 }
+.League-container
+{
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    height: auto;
+    align-items: center;
+}
+.League-Card
+{
+    width: 80%;
+    margin: 0px;
+    height: 150px;
+    border-radius: 25px;
+}
