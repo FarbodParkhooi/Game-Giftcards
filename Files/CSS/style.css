@@ -55,10 +55,11 @@ a
     flex-direction: column;
     height: auto;
     align-items: center;
+    gap: 25px;
 }
 .League-Card
 {
-    width: 80%;
+    width: 60%;
     margin: 0px;
     height: 150px;
     border-radius: 25px;
