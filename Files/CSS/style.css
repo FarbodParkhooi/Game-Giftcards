@@ -56,11 +56,18 @@ a
     align-items: center;
     gap: 15px;
 }
+.League-image
+{
+    width: 100%;
+    height: 100%;
+    border-radius: 50px;
+    transition: all 0.5s ease-in-out;
+}
 .League-Card
 {
     padding: 25px;
     margin: 0px;
-    border-radius: 25px;
+    border-radius: 50px;
     background-color: #0e1318;
     width: 570px;
     border: solid rgb(255, 255, 255);
@@ -68,5 +75,5 @@ a
 }
 .League-Card:hover
 {
-    background-color: black;
+    padding: 0px;
 }
