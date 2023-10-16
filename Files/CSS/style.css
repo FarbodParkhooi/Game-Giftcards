@@ -48,8 +48,8 @@ a
 }
 .League-container
 {
-    padding-top: 50px;
     display: flex;
+    padding-top: 25px;
     justify-content: center;
     flex-wrap: wrap;
     height: auto;
@@ -58,10 +58,15 @@ a
 }
 .League-Card
 {
+    padding: 25px;
     margin: 0px;
-    height: 150px;
-    min-width: 300px;
+    border-radius: 25px;
+    background-color: #0e1318;
+    width: 400px;
     border: solid rgb(255, 255, 255);
-    max-width: 600px;
-    border-radius: 50px;
+    transition: all 0.5s ease-in-out;
+}
+.League-Card:hover
+{
+    background-color: black;
 }
