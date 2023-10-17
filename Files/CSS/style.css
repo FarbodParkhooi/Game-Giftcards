@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400&display=swap');
 body
 {
     color: white !important;
@@ -87,4 +88,8 @@ footer
     background-color: #0e1318;
     clear: both;
     padding: 25px;
+}
+.Time
+{
+    font-family: 'Orbitron', sans-serif;
 }
