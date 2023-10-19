@@ -16,6 +16,7 @@ function start_menu()
     let item1 = document.getElementById("item1")
     let item2 = document.getElementById("item2")
     var pos = 600;
+    clearInterval(id);
     circle.style.visibility = "visible";
     id = setInterval(frame, 10);
     function frame() 
@@ -24,8 +25,8 @@ function start_menu()
         // second list item: 725
         if (pos == 800) 
         {
-            circle.style.visibility = 'hidden';
             clearInterval(id);
+            circle.style.visibility = 'hidden';
         } 
         else 
         {
