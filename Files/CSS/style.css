@@ -93,3 +93,54 @@ footer
 {
     font-family: 'Orbitron', sans-serif;
 }
+.Menu 
+{
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.Menu-content
+{
+    width: 90%;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    backdrop-filter: blur(25px);
+    border-radius: 50px;
+}
+.Menu-item
+{
+    background-color: transparent;
+    transition: all 0.5s ease-in-out;
+}
+.menu-img
+{
+    display: flex;
+    justify-content: center;
+    width: 50px;
+    height: 100%;
+}
+.Menu-con
+{
+    display: flex;
+}
+.Menu-List
+{
+    color: white;
+    transition: all 0.5s ease-in-out;
+}
+.Menu-List:hover
+{
+    color: rgb(0, 0, 95);
+}
+#circle
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    position: absolute;
+    background-color: black;
+    box-shadow: 0px 0px 15px rgb(0, 0, 95);;
+}
