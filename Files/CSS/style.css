@@ -8,7 +8,6 @@ body
 }
 .Card-container
 {
-    padding-top: 50px;
     display: flex;
     justify-content: center;
     gap: 15px;
@@ -110,26 +109,53 @@ footer
     backdrop-filter: blur(25px);
     border-radius: 50px;
 }
+.nav
+{
+    width: 90%;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+}
 .Menu-item
 {
+    display: flex;
     background-color: transparent;
     transition: all 0.5s ease-in-out;
 }
 .menu-img
 {
-    display: flex;
+    display: none;
     justify-content: center;
     width: 50px;
+    height: 100%;
+    cursor: pointer;
+}
+.menu-icon_text
+{
+    display: flex;
+    justify-content: flex-start;
+    width: 150px;
+    height: 100%;
+}
+.menu-icon
+{
+    display: flex;
+    justify-content: flex-start;
+    width: 100px;
     height: 100%;
 }
 .Menu-con
 {
+    list-style-type: none;
     display: flex;
+    transition: all 0.3s ease-in-out;
 }
 .Menu-List
 {
     color: white;
     transition: all 0.5s ease-in-out;
+    padding: 0 1rem;
+    display: flex;
 }
 .Menu-List:hover
 {
@@ -143,4 +169,45 @@ footer
     position: absolute;
     background-color: black;
     box-shadow: 0px 0px 15px rgb(0, 0, 95);;
+
+}
+@media only screen and (max-width: 950px)
+{
+    .Time
+    {
+        display: none;
+    }
+}
+@media only screen and (max-width: 830px)
+{
+    .menu-icon
+    {
+        display: none;
+    }
+}
+@media only screen and (max-width: 720px)
+{
+    .Menu-con
+    {
+        position: fixed;
+        top: 0;
+        /* first left: -80px */
+        /* second left: -300px */
+        left: -300px;
+        border-radius: 50px;
+        bottom: 0;
+        height: 500px;
+        background-color: #0e1318;
+        padding-top: 25px;
+        flex-direction: column;
+        padding-left: 55px;
+    }
+    .Menu-List
+    {
+        padding: 1rem;
+    }
+    .menu-img
+    {
+        display: flex;
+    }
 }
