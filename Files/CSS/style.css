@@ -129,6 +129,7 @@ footer
     width: 50px;
     height: 100%;
     cursor: pointer;
+    transition: all 0.5s ease-in-out;
 }
 .menu-icon_text
 {
@@ -190,8 +191,8 @@ footer
     .Menu-con
     {
         position: fixed;
-        top: 0;
-        /* first left: -80px */
+        top: 30px;
+        /* first left: -60px */
         /* second left: -300px */
         left: -300px;
         border-radius: 50px;
