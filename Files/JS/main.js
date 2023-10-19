@@ -16,13 +16,13 @@ function start_menu()
     let btn = document.getElementById("menu-btn")
     if (open == false)
     {
-        menu.style.left = "-60px";
+        menu.style.right = "-60px";
         btn.style.transform = 'rotate(+90deg)';
         open = true;
     }
     else if (open == true)
     {
-        menu.style.left = "-300px";
+        menu.style.right = "-300px";
         btn.style.transform = 'rotate(360deg)';
         open = false;
     }

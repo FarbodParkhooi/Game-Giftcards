@@ -194,7 +194,7 @@ footer
         top: 30px;
         /* first left: -60px */
         /* second left: -300px */
-        left: -300px;
+        right: -300px;
         border-radius: 50px;
         bottom: 0;
         height: 500px;
