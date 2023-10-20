@@ -8,7 +8,7 @@
    - JS
 
    - Github pages
-# Versions (Now: V0.3.2)
+# Versions (Now: V0.3.3)
   - V0.1
 
      Create menu
@@ -16,7 +16,7 @@
      - Menu version 1
      - Menu Version 2
      - Menu Version 3
-     - Menu Version 4:  Add <a> tag for list
+     - Menu Version 4:  Add a tag for the list
 
   - V0.2
 
