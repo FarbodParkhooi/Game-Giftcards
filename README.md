@@ -26,6 +26,7 @@
      Create completed the home page
     
   - V0.5
+
      Write the copyleft and Github address in the footer
     
   - V0.6
