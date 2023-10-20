@@ -14,11 +14,8 @@
      Create menu
 
      - Menu version 1
-    
      - Menu Version 2
-    
      - Menu Version 3
-       
      - Menu Version ...
 
   - V0.2
