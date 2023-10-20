@@ -16,7 +16,7 @@
      - Menu version 1
      - Menu Version 2
      - Menu Version 3
-     - Menu Version 4:  Add a tag for the list
+     - Menu Version 4:  Add A tag for the list
 
   - V0.2
 
