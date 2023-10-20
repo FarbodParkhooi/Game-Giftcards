@@ -8,10 +8,18 @@
    - JS
 
    - Github pages
-# Versions
+# Versions (Now: 
   - V0.1
 
      Create menu
+
+     - Menu version 1
+    
+     - Menu Version 2
+    
+     - Menu Version 3
+       
+     - Menu Version ...
 
   - V0.2
 
@@ -20,14 +28,15 @@
   - V0.3
 
      Create footer
-    
+
+     - Footer V1:  Support phone number
+     - Footer V2:  Write information about Gamgi
+     - Footer V3:  Write Github address
   - V0.4
 
      Create completed the home page
     
   - V0.5
-
-     Write the copyleft and Github address in the footer
     
   - V0.6
   
