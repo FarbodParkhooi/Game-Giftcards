@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400&display=swap');
 body
 {
-    color: white !important;
+    color: white;
     margin: 0;
     text-align: right;
     background-color: #11171c;
@@ -206,7 +206,14 @@ footer
 a
 {
     text-decoration: none;
-    font-size: +5;
+}
+a:hover
+{
+    text-decoration: underline blue;
+}
+.None-decoration
+{
+    text-decoration: none !important;
 }
 @media only screen and (max-width: 950px)
 {
