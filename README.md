@@ -30,6 +30,7 @@
      - Footer V2:  Write information about Gamgi
      - Footer V3:  Write Github address
      - Footer V4:  add more link
+     - Footer V5:  Completed footer
   - V0.4
 
      Create completed the home page
