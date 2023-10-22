@@ -8,7 +8,7 @@
    - JS
 
    - Github pages
-# Versions (Now: V0.3.5)
+# Versions (Now: V0.4)
   - V0.1
 
      Create menu
